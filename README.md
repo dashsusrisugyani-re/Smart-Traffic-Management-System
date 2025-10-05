@@ -28,29 +28,7 @@ Install `matplotlib` with:
 ```bash
 pip install matplotlib
 ```
-### Running the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/smart-traffic-management-system.git
-   cd smart-traffic-management-system
-   ```
-2. Run the simulation:
-   ```bash
-   python smart_traffic_management.py
-   ## Example Output
-
-```
---- Cycle 1 ---
-North: 25 vehicles, Green Time=40s
-South: 3 vehicles, Green Time=25s
-East: 11 vehicles, Green Time=30s
-West: 0 vehicles, Green Time=20s
-...
-```
-A traffic flow graph will pop up after the simulation.
-
----
 ## Author
 
 - [SUSRI SUGYANI DASH](https://github.com/dashsusrisugyani-re)
